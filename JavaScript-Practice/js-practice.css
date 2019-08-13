@@ -1,0 +1,26 @@
+/*#like {
+  transition: 400ms all; .classList.remove
+}*/
+ button {
+   transition: 1000ms all;
+   width: 180px;
+   height: 60px;
+
+
+ }
+ .big-red {
+    background-color: pink;
+    width: 500px;
+    height: 300px;
+ }
+.magenta-cir{
+  background: Magenta;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
+.small-blue {
+    background-color: green;
+    width: 100px;
+    height: 60px;
+}

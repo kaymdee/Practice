@@ -1,0 +1,11 @@
+http://localhost:8080/memeresult
+
+web browser --->
+  operating system --->
+    server (dev_appserver) --->
+      app.yaml [checks out handlers] --->
+        main.app --->
+          ResultHandler --->
+            jinja tmplate --->
+              result_template_dictionary --->
+                result.html --->

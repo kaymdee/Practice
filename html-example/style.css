@@ -1,0 +1,44 @@
+/* CSS - Example List Setup */
+
+#milky-way {
+  font-family: 'Noto Sans', sans-serif;
+  width: 300px;
+}
+
+.top-bar {
+  background-color: #009688;
+  height: 20px;
+}
+
+h1 {
+  background-color: #009688;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 30;
+  height: 60px;
+}
+
+.title {
+  color: white;
+  height: 100%;
+  padding-top: 18px;
+  
+
+}
+
+ul {
+  border-left: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
+  border-right: 1px double lightgrey;
+  list-style-type: none;
+  padding: 15px 0px 0px 0px;
+  margin: 0px;
+
+}
+
+li {
+  color: green;
+  height: 40px;
+  font-size: 16px;
+  padding-left: 15px;
+  padding-top: 2px;
+}

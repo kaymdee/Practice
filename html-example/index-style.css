@@ -1,0 +1,16 @@
+h1 {
+  color: blue;
+  font-size: 32px;
+}
+
+.outer {
+  list-style-type: lower-greek;
+}
+
+.inner {
+  list-style-type: lower-roman;
+}
+
+#inner {
+  list-style-type: lower-roman;
+}
